@@ -143,7 +143,9 @@ var final=function(prize) {
 	return "gold";
 }
 
-
+$("h1").fadeOut(2000);
+$("h1").fadeIn(2000);
+$("#An").hide(2000).show(1000);
 
 
 
